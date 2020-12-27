@@ -5,7 +5,7 @@ A python framework that makes it more convenient for you to build websocket appl
 ## Demo
 
 ```py
-from pymonitor.pymonitor import PymonitorEvent, Pymonitor
+from pymonitor import PymonitorEvent, Pymonitor
 import asyncio
 
 

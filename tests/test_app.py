@@ -1,4 +1,4 @@
-from pymonitor.pymonitor import PymonitorEvent, Pymonitor
+from pymonitor import PymonitorEvent, Pymonitor
 import asyncio
 
 
